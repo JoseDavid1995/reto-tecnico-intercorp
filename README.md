@@ -4,7 +4,7 @@ Sistema distribuido compuesto por tres microservicios orientados a procesar arch
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+## Arquitectura del Sistema
 
 El sistema se compone de los siguientes microservicios desacoplados:
 
@@ -24,7 +24,7 @@ El sistema se compone de los siguientes microservicios desacoplados:
 
 ---
 
-## ⚙️ Justificación Técnica de Kafka (Rendimiento y Latencia)
+## Justificación Técnica de Kafka (Rendimiento y Latencia)
 
 Tal como se solicita en los requerimientos de optimización de latencia y throughput, la configuración implementada en los productores y consumidores responde a los siguientes criterios:
 
@@ -34,7 +34,7 @@ Tal como se solicita en los requerimientos de optimización de latencia y throug
 
 ---
 
-## 🚀 Guía de Despliegue Inmediato (Docker Compose)
+## Guía de Despliegue Inmediato (Docker Compose)
 
 Todo el ecosistema (infraestructura + los 3 microservicios) se encuentra dockerizado para un despliegue transparente.
 
